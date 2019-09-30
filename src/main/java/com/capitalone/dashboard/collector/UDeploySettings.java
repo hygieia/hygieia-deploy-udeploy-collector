@@ -39,7 +39,7 @@ public class UDeploySettings {
         return usernames;
     }
 
-    public void setUsername(List<String> usernames) {
+    public void setUsernames(List<String> usernames) {
         this.usernames = usernames;
     }
 
@@ -47,7 +47,7 @@ public class UDeploySettings {
         return passwords;
     }
 
-    public void setPassword(List<String> passwords) {
+    public void setPasswords(List<String> passwords) {
         this.passwords = passwords;
     }
 
